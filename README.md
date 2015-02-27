@@ -1,7 +1,7 @@
 # ungoogle - shell script to "ungoogle" google news links
 
-Imagine you have a "Google News" link, in the format you see on its website or
-- worse - on the RSS feed. Something like:
+Imagine you have a "Google News" link, in the format you see on its website
+or - worse - on the RSS feed. Something like:
 
    http://news.google.com/news/url?sa=t&fd=R&ct2=pt-PT_pt&usg=AFQjCNFjZjhBUXzComaazKhbRHh50N_P_g&clid=c3a7d30bb8a4878e06b80cf16b898331&cid=52779178690885&ei=mYjwVLnyNYK21gatlIHYCg&url=http://www.dn.pt/inicio/tv/interior.aspx?content_id%3D4425605
 
